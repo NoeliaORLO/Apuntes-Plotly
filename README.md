@@ -1,5 +1,6 @@
 # Apuntes Plotly 📊
-Estos son mis apuntes y casos prácticos sobre la librería **Plotly**, orientados a la creación y personalización de gráficos interactivos en Python. 
+Estos son mis apuntes y casos prácticos sobre la librería **Plotly**, enfocados en la creación y personalización de gráficos interactivos.
+
 Todos están en formato `.ipynb`, por lo que para poder visualizarlos y ejecutarlos se necesita la extensión **Jupyter** en Visual Studio Code.
 
 Para poder utilizar Plotly se necesita instalar la librería: `pip install plotly`
